@@ -20,7 +20,7 @@ canvas {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: darkslateblue;
+    background: red;
 }
 
 .tool-box {
